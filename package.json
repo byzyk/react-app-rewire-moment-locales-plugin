@@ -17,7 +17,7 @@
     "moment-locales-plugin",
     "webpack"
   ],
-  "author": "Bohdan Khodakivskyi",
+  "author": "Bohdan Khodakivskyi <bohdan.kh@gmail.com> (https://bohdan-khodakivskyi.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/byzyk/react-app-rewire-moment-locales-plugin/issues"
