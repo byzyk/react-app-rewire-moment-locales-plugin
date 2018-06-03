@@ -1,0 +1,33 @@
+{
+  "name": "react-app-rewire-moment-locales-plugin",
+  "version": "1.0.0",
+  "description": "Add moment-locales-webpack-plugin to a react-app-rewired config.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byzyk/react-app-rewire-moment-locales-plugin.git"
+  },
+  "keywords": [
+    "react",
+    "react-app-rewired",
+    "momentjs",
+    "moment-locales-plugin",
+    "webpack"
+  ],
+  "author": "Bohdan Khodakivskyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byzyk/react-app-rewire-moment-locales-plugin/issues"
+  },
+  "homepage": "https://github.com/byzyk/react-app-rewire-moment-locales-plugin#readme",
+  "dependencies": {
+    "moment-locales-webpack-plugin": "^1.0.7"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  }
+}
