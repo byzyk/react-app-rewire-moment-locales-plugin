@@ -1,11 +1,11 @@
-const MomentLocalesPlugin = require('moment-locales-webpack-plugin');
+const MomentLocalesPlugin = require('moment-locales-webpack-plugin')
 
 function rewireMomentLocalesPlugin(config, env, options = {}) {
   config.plugins = (config.plugins || []).concat([
-    new MomentLocalesPlugin(options),
-  ]);
+    new MomentLocalesPlugin(options)
+  ])
 
-  return config;
+  return config
 }
 
-module.exports = rewireMomentLocalesPlugin;
+module.exports = rewireMomentLocalesPlugin
