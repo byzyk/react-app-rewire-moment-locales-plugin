@@ -28,4 +28,4 @@ module.exports = function override(config, env) {
 
 ## License
 
-MIT © [Bohdan Khoadkivskyi](https://bohdan-khodakivskyi.com)
+MIT © [Bohdan Khodakivskyi](https://bohdan-khodakivskyi.com)
